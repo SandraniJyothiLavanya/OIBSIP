@@ -19,3 +19,6 @@ The Algorithms used in training the model:
     <tr> <td> <b> Algorithm  <b> </td>  <td> <b> Accuracy<b> </td> </tr>  
         <tr> <td> Logistic Regression </td> <td>  96%  </td> </tr>
         <tr> <td> Guassian NB </td> <td>  97%  </td> </tr>
+        </table>
+
+        
